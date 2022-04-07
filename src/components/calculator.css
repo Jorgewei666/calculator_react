@@ -1,0 +1,9 @@
+.b {
+    height: 50px;
+    width: 70px;
+    background-color: tomato;
+    margin-left: 25px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+}

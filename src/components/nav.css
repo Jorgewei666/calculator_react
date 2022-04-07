@@ -1,0 +1,8 @@
+#screen {
+    background-color: gainsboro;
+    width: 390px;
+    height: 50px;
+   
+    text-align: right;
+    margin-top: 30px;
+}
